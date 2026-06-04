@@ -139,14 +139,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-## Author
-
-**Nimeshi De Silva**
-Undergraduate – Information Technology
-Sri Lanka Institute of Information Technology (SLIIT)
-
----
-
 ## Acknowledgements
 
 Special thanks to the lecturers and instructors of the IT3021 Data Warehouse & Business Intelligence module for their guidance and support throughout the project.
