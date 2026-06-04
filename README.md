@@ -1,4 +1,4 @@
-# Data Warehouse and Business Intelligence Project
+# Data Warehouse and Business Intelligence Project 🚀 
 
 ## Overview
 
