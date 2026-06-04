@@ -1,3 +1,5 @@
+# Data Warehouse and Business Intelligence Project
+
 ## Overview
 
 This project was developed as part of the **IT3021 - Data Warehouse & Business Intelligence** module at the Sri Lanka Institute of Information Technology (SLIIT).
