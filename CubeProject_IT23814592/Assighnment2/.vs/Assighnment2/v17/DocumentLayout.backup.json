@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|solutionrelative:Assighnment2\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|solutionrelative:Assighnment2\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Payment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|solutionrelative:Assighnment2\\Dim Payment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|solutionrelative:Assighnment2\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Ecommerce DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|solutionrelative:Assighnment2\\Ecommerce DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Ecommerce DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{05EDD76E-2327-5F2B-B2E0-D5025C7C90B9}|Assighnment2\\Assighnment2.dwproj|solutionrelative:Assighnment2\\Ecommerce DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Assighnment2\\Dim Date.dim",
+              "ToolTip": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Assighnment2\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:20:46.148Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Payment.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Payment.dim",
+              "RelativeDocumentMoniker": "Assighnment2\\Dim Payment.dim",
+              "ToolTip": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Payment.dim [Design]",
+              "RelativeToolTip": "Assighnment2\\Dim Payment.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:20:26.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Assighnment2\\Dim Customer.dim",
+              "ToolTip": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Assighnment2\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:17:25.987Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Product.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Assighnment2\\Dim Product.dim",
+              "ToolTip": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Dim Product.dim [Design]",
+              "RelativeToolTip": "Assighnment2\\Dim Product.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:08:42.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ecommerce DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Ecommerce DW.cube",
+              "RelativeDocumentMoniker": "Assighnment2\\Ecommerce DW.cube",
+              "ToolTip": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Ecommerce DW.cube [Design]",
+              "RelativeToolTip": "Assighnment2\\Ecommerce DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T07:04:52.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ecommerce DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Ecommerce DW.dsv",
+              "RelativeDocumentMoniker": "Assighnment2\\Ecommerce DW.dsv",
+              "ToolTip": "C:\\Users\\nimeshi\\source\\repos\\Assighnment2\\Assighnment2\\Ecommerce DW.dsv [Design]",
+              "RelativeToolTip": "Assighnment2\\Ecommerce DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-31T06:52:14.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
