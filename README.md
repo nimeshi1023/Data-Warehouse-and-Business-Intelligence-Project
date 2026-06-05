@@ -68,7 +68,7 @@ The ETL pipeline was developed using SQL Server Integration Services (SSIS).
 * DimCustomer
 * DimProduct
 * DimDate
-* DimLocation
+* DimPayment
 
 ### Additional Features
 
